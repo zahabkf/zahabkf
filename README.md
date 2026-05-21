@@ -1,4 +1,4 @@
-## Hi, I’m Zahab – a Computer Science graduate passionate about AI automation and its impact on business growth. </br>
+## Hi, I’m Zahab – a business analyst / AI Specialist passionate about AI automation and its impact on business growth. </br>
 ⚙️ My Focus: building practical solutions using LLMs, data analytics, and automation tools to streamline operations and unlock insights.</br>
 📊 I bridge the gap between business and technology, combining technical expertise with strategic thinking to deliver value.</br>
 🔍 Areas of interest: Generative AI, AI agents, process automation, predictive analytics, and data-driven strategy.</br>
